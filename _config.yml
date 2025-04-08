@@ -27,7 +27,7 @@ domain: www.flinchum.net
 url: "https://www.flinchum.net" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
 github_username: DiscFlyer
-# github: [metadata]
+github: [metadata]
 
 # Build settings
 theme: jekyll-theme-slate
